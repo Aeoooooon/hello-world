@@ -1,8 +1,2 @@
-# hello-world
+# hello-world（星星点点）
 My first repository
-int main()
-{
-	printf("hello world!%\n");
-	printf("hello Aeoooooon!%\n");
-	return 0;
-}
